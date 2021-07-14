@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var TITLE = 'Income and Test Scores in Connecticut School Districts, 2009-13';
+  var TITLE = 'Income and Test Scores in Prince Georges County School Districts, 2009-13';
 
   var POINT_X = 'income'; // column name for x values in data.csv
   var POINT_X_PREFIX = '$'; // prefix for x values, eg '$'
